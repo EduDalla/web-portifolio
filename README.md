@@ -75,3 +75,4 @@ As seguintes rotas estão configuradas usando o `createBrowserRouter` do `react-
 - **useState**: Hook do React utilizado para gerenciar o estado nos componentes funcionais.
 - **PropTypes**: Biblioteca para validar as propriedades dos componentes React e garantir que os dados corretos sejam passados.
 - **NavLink**: Componente do `react-router-dom` usado para navegação com estilos ativos entre as páginas.
+- **React Icons**: Ferramenta de icones do react
