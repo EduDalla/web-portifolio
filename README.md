@@ -70,3 +70,6 @@ As seguintes rotas estão configuradas usando o `createBrowserRouter` do `react-
 - **React**: Biblioteca JavaScript para a construção de interfaces de usuário.
 - **React Router**: Biblioteca de roteamento para React.
 - **Vite**: Ferramenta para empacotamento de projetos de front-end.
+- **useState**: Hook do React utilizado para gerenciar o estado nos componentes funcionais.
+- **PropTypes**: Biblioteca para validar as propriedades dos componentes React e garantir que os dados corretos sejam passados.
+- **NavLink**: Componente do `react-router-dom` usado para navegação com estilos ativos entre as páginas.
