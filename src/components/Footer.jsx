@@ -1,3 +1,7 @@
+import { FaGithub } from "react-icons/fa";
+import { FaLinkedin } from "react-icons/fa";
+import { FaReact } from "react-icons/fa";
+
 const Footer = () => {
   return (
     <footer className="py-4 ">
@@ -19,13 +23,13 @@ const Footer = () => {
 
           <div className="flex justify-center space-x-4">
             <a href="https://github.com/EduDalla" target="_blank">
-              <img src="./github.png" className="w-6 h-6" alt="GitHub" />
+              <FaGithub className="w-6 h-6 rounded-md" alt="Github" />
             </a>
             <a href="https://www.linkedin.com/in/eduardo-dallabella-lima-276b1a1b5/" target="_blank">
-              <img src="./linkedin.png" className="w-6 h-6 rounded-md" alt="LinkedIn" />
+              <FaLinkedin className="w-6 h-6 rounded-md" alt="LinkedIn" />
             </a>
             <a href="https://react.dev/" target="_blank">
-              <img src="./sobre/react.png" className="w-6 h-6" alt="React" />
+              <FaReact className="w-6 h-6" alt="React" />
             </a>
           </div>
         </div>
