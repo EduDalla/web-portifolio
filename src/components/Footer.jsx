@@ -24,6 +24,9 @@ const Footer = () => {
             <a href="https://www.linkedin.com/in/eduardo-dallabella-lima-276b1a1b5/" target="_blank">
               <img src="./linkedin.png" className="w-6 h-6 rounded-md" alt="LinkedIn" />
             </a>
+            <a href="https://react.dev/" target="_blank">
+              <img src="./sobre/react.png" className="w-6 h-6" alt="React" />
+            </a>
           </div>
         </div>
       </div>
