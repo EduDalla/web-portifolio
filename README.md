@@ -1,4 +1,6 @@
-Aqui está um exemplo de um arquivo `README.md` baseado no código fornecido, explicando o projeto React com React Router.
+# Meu Portfólio
+
+Este portfólio foi desenvolvido em **React** e contém todos os tópicos solicitados no CP (Conteúdo Programático). O projeto utiliza o `react-router-dom` para navegação entre as páginas e inclui diversas seções que apresentam informações sobre mim, meus projetos e como entrar em contato.
 
 ```markdown
 # Meu Projeto React
@@ -17,13 +19,13 @@ Antes de iniciar, certifique-se de ter o Node.js e o npm instalados em sua máqu
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/EduDalla/web-portifolio.git
    ```
 
 2. Acesse o diretório do projeto:
 
    ```bash
-   cd seu-repositorio
+   cd web-portifolio.
    ```
 
 3. Instale as dependências necessárias:
