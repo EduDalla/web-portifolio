@@ -1,4 +1,3 @@
-// Node Modules
 import propTypes from "prop-types";
 
 
@@ -18,14 +17,11 @@ const SkillCard = ({
                     alt={label} 
                 />
             </figure>
+            <h3 className="ml-full">{label}</h3>
 
-            <div>
-                <h3>{label}</h3>
-
-                <p className="text-zinc-400 text-sm">
-                    {desc}
-                </p>
-            </div>
+            <p className="mr-full text-zinc-400 text-sm">
+                {desc}
+            </p>
         </div>
     )
 }

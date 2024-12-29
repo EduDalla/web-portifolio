@@ -14,15 +14,15 @@ function Home() {
   
                 <h1 className="text-5xl font-bold max-w-[15ch] sm:max-w-[20ch] lg:max-w-[20ch] mt-5">
                   I'M
-                  <strong className="main-name text-orange-600"> EDUARDO DALLABELLA LIMA</strong>
+                  <strong className="main-name text-purple-700"> EDUARDO DALLABELLA LIMA</strong>
                 </h1>
               </div>
   
               <img 
-                src="/me.jpg" 
+                src="/home/me.png" 
                 alt="Imagem de Eduardo Dallabella Lima"
-                className="w-100 h-100 object-cover rounded-full"
-              />
+                className="w-50 h-50 object-cover rounded-full border-4 border-purple-700"
+                />
             </div>
           </div>
         </div>

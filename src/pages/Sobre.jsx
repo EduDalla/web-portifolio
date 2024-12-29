@@ -61,13 +61,13 @@ export default function Sobre() {
         </p>
       </div>
       <div className="w-full md:w-auto">
-        <img className="w-96 h-96 md:w-35 md:h-48 lg:w-45 lg:h-45 rounded-full mx-auto md:mx-0" src="./programming.png" alt="Programming" />
+        <img className="w-96 h-96 md:w-35 md:h-48 lg:w-45 lg:h-45 rounded-full mx-auto md:mx-0" src="./sobre/programming.png" alt="Programming" />
       </div>
     </div>
 
         
         <div className="container text-center flex flex-col mt-10"> 
-          <h2 className="headline-2 reveal-up text-orange-600 text-5xl font-bold"> 
+          <h2 className="headline-2 reveal-up text-purple-700 text-5xl font-bold"> 
             Ferramentas que utilizo
           </h2>
 

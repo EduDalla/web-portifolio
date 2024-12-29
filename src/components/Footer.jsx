@@ -1,10 +1,10 @@
-import { FaGithub } from "react-icons/fa";
+import { FaGithub, FaInstagram } from "react-icons/fa";
 import { FaLinkedin } from "react-icons/fa";
 import { FaReact } from "react-icons/fa";
 
 const Footer = () => {
   return (
-    <footer className="py-4 ">
+    <footer className="py-4">
       <div className="container mx-auto px-4">
         <div className="flex flex-col md:flex-row items-center justify-between space-y-4 md:space-y-0">
           <a href="/" className="logo">
@@ -28,8 +28,8 @@ const Footer = () => {
             <a href="https://www.linkedin.com/in/eduardo-dallabella-lima-276b1a1b5/" target="_blank">
               <FaLinkedin className="w-6 h-6 rounded-md" alt="LinkedIn" />
             </a>
-            <a href="https://react.dev/" target="_blank">
-              <FaReact className="w-6 h-6" alt="React" />
+            <a href="https://www.instagram.com/dallabella.code/" target="_blank">
+              <FaInstagram className="w-6 h-6" alt="Instagram" />
             </a>
           </div>
         </div>

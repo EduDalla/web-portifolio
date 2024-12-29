@@ -1,6 +1,6 @@
-import Bobbert from "/bobbert.png";
-import EyeLook from "/eyelook.png";
-import NeuralTrack from "/neuraltrack.png";
+import Bobbert from "/projetos/bobbert.png";
+import EyeLook from "/projetos/eyelook.png";
+import NeuralTrack from "/projetos/neuraltrack.png";
 
 export default function Projetos(){
     return(
@@ -110,7 +110,7 @@ export default function Projetos(){
             </a>
             <a
               className="group/card relative h-full overflow-hidden rounded-2xl bg-gray-800 p-px before:pointer-events-none before:absolute before:-left-40 before:-top-40 before:z-10 before:h-80 before:w-80 before:translate-x-[var(--mouse-x)] before:translate-y-[var(--mouse-y)] before:rounded-full before:bg-indigo-500/80 before:opacity-0 before:blur-3xl before:transition-opacity before:duration-500 after:pointer-events-none after:absolute after:-left-48 after:-top-48 after:z-30 after:h-64 after:w-64 after:translate-x-[var(--mouse-x)] after:translate-y-[var(--mouse-y)] after:rounded-full after:bg-indigo-500 after:opacity-0 after:blur-3xl after:transition-opacity after:duration-500 after:hover:opacity-20 before:group-hover:opacity-100"
-              href="#0"
+              href="https://github.com/devsilasz/NeuralGuide/tree/feature/passando-na-web-com-flask"
             >
               <div className="relative z-20 h-full overflow-hidden rounded-[inherit] bg-gray-950 after:absolute after:inset-0 after:bg-gradient-to-br after:from-gray-900/50 after:via-gray-800/25 after:to-gray-900/50">
                 <div
@@ -148,7 +148,7 @@ export default function Projetos(){
                     A Neural Track tem o propósito de ajudar a facilitar o modo com que é feita a medição de Dopamina
                   </p>
                   <p className="text-indigo-200/65 text-center font-bold mt-8">
-                    Em breve!
+                    Clique no card para saber mais!
                   </p>
                 </div>
               </div>
